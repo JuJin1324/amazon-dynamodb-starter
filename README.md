@@ -37,3 +37,4 @@
 > dynamodb 의 endpoint 를 ip 주소로 할 경우 사용 -> [dynamodb-admin](https://www.npmjs.com/package/dynamodb-admin)
 > 실행 예제: `DYNAMO_ENDPOINT=http://192.168.0.38:8000 dynamodb-admin`  
 > 브라우저에서 접속: `http://localhost:8001`  
+> 참조사이트: [DynamoDB + GUI 로컬 개발환경 세팅하기](https://aerocode.net/317)
