@@ -1,0 +1,16 @@
+{
+	"Music": [
+		{
+            "PutRequest": {
+                "Item": {
+                    "SongTitle": { "S": "분홍신" },
+                    "AlbumTitle": { "S": "타이틀 샘플" },
+                    "Year": { "N": "2020" },
+                    "Price": { "N": "20000" },
+                    "Genre": { "S": "댄스" },
+                    "Tags": { "S": "댄스,아이돌,신곡" }
+                }
+            }
+        }
+	]
+}

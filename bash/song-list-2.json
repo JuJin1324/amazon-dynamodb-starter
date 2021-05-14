@@ -1,0 +1,40 @@
+{
+	"Music": [
+		{
+            "PutRequest": {
+                "Item": {
+                    "SongTitle": { "S": "노래제목 샘플2" },
+                    "AlbumTitle": { "S": "타이틀 샘플2" },
+                    "Year": { "N": "2014" },
+                    "Price": { "N": "21000" },
+                    "Genre": { "S": "댄스" },
+                    "Tags": { "S": "댄스,아이돌,신곡" }
+                }
+            }
+        },{
+            "PutRequest": {
+                "Item": {
+                    "Item": {
+                        "SongTitle": { "S": "노래제목 샘플3" },
+                        "AlbumTitle": { "S": "타이틀 샘플3" },
+                        "Year": { "N": "2017" },
+                        "Price": { "N": "10000" },
+                        "Genre": { "S": "발라드" },
+                        "Tags": { "S": "아이돌,발라드" }
+                    }
+                }
+            }
+        },{
+            "PutRequest": {
+                "Item": {
+                    "SongTitle": { "S": "노래제목 샘플4" },
+                    "AlbumTitle": { "S": "타이틀 샘플4" },
+                    "Year": { "N": "2015" },
+                    "Price": { "N": "12000" },
+                    "Genre": { "S": "힙합" },
+                    "Tags": { "S": "랩,힙합" }
+                }
+            }
+        }
+	]
+}
